@@ -3,3 +3,8 @@
 ################################################################################
 
 /.vs
+/EF_ADO_Benchmarking.App/EF_ADO_Benchmarking.App/obj
+/EF_ADO_Benchmarking.App/obj
+/EF_ADO_Benchmarking.App/.vs/EF_ADO_Benchmarking.App/DesignTimeBuild
+/EF_ADO_Benchmarking.App/.vs/EF_ADO_Benchmarking.App/v17
+/EF_ADO_Benchmarking.App/.vs/EF_ADO_Benchmarking.App
